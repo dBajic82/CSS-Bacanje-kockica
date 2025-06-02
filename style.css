@@ -1,0 +1,35 @@
+body{
+    background-color: #b9b99d;
+    text-align: center;
+
+    
+}
+
+div{
+    display: flex;
+    justify-content: center;
+
+}
+
+label{
+    border: 1px solid;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: #e7e7c4;
+    margin: 10px;
+    align-content: center;
+    text-align: end;
+    
+    
+    
+ 
+}
+
+button{
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(95, 160, 131);
+}
